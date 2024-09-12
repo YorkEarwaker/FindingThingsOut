@@ -1,4 +1,8 @@
 # FindingThingsOut
 Artificial Intelligence Software
 
-Neural networks and deep learning
+Brain mind issues.
+
+
+
+Lower order priority. Neural networks and deep learning
