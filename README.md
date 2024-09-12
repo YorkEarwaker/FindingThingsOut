@@ -1,5 +1,5 @@
 # FindingThingsOut
-Artificial Intelligence Software
+Artificial Intelligence Solutions
 
 Brain mind issues.
 
