@@ -1,7 +1,7 @@
 # FindingThingsOut
 Artificial Intelligence Systems Solutions
 
-Brain mind issues.
+Brain mind whole and parts.
 
 Toward an artificial general intelligence (AGI). AGI is a hardware issue not a software issue. 
 
