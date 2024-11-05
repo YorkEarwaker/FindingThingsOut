@@ -9,13 +9,14 @@ Many overlaps with ML. But focus on neural nets not numerical and data analysis.
 Spiking neural network SNN, 
 
 Frameworks
-* DeepLearning4J DL4J, [WP](https://en.wikipedia.org/wiki/Deeplearning4j), WS, Java, CUDA, C, C++, compatible with Clojure, API for Scala, GPU acceleration support, Eclipse Foundation
+* DeepLearning4J DL4J, [WP](https://en.wikipedia.org/wiki/Deeplearning4j), WS, Java, CUDA, C, C++, API for Java, Scala, Python, Clojure & Kotlin, GPU acceleration support, integration with Keras & TensorFlow, Eclipse Foundation
 * Fast Artificial Neural Network FANN, [WP](https://en.wikipedia.org/wiki/Fast_Artificial_Neural_Network), [WS](https://leenissen.dk/), C, bindable to C++, C#, Java, Python, R, PHP, feedforward, 
 * Neuroph, [WP](https://en.wikipedia.org/wiki/Neuroph), WS, Java, several ann architectures, 
 * Apache SINGA, WP, WS, Cpp, Python, healthcare, Singapore, social good
 * H20, WP, WS, Java, distributed computing, Spark, Casandra, Hadoop, proprietry/freemium
 * PyTorch
 * TensorFlow
+* Keras
 * PaddlePaddle
 * snnTorch
 * BindsNet
