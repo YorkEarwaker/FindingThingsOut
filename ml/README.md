@@ -27,16 +27,16 @@ Numerical and data analysis
 
 Programming Languages
 
-Java
-Python
-Cython
-C/Cpp
-Julia
-R
-PDL
-J? 
-JS?
-other?
+* Java
+* Python
+* Cython
+* C/Cpp
+* Julia
+* R
+* PDL
+* J? 
+* JS?
+* other?
 
 References
 * Comparison of numerical analysis software [WP](https://en.wikipedia.org/wiki/Comparison_of_numerical-analysis_software)
