@@ -3,7 +3,6 @@ Machine Learning ML
 Numerical and data analysis
 
 Apache Mahout, WP, WS, Java, 
-DeepLearning4J, WP, WS, Java, 
 Massive Online Analysis MOA, Java, data stream mining, 
 Wekatia Environment for Knowledge Analysis Weka, [WP](https://en.wikipedia.org/wiki/Weka_(software)), [WS](), Java, data mining
 
