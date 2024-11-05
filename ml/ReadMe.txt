@@ -28,7 +28,13 @@ TensorFlow
 
 Java
 Python
-Cpp
+Cython
+C/Cpp
+Julia
+R
 JS?
-R?
-other? 
+other?
+
+References
+* Comparison of numerical analysis software [WP](https://en.wikipedia.org/wiki/Comparison_of_numerical-analysis_software)
+
