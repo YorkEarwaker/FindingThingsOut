@@ -26,12 +26,16 @@ NLTK, nlp
 PyTorch, Linux Foundation
 TensorFlow
 
+Programming Languages
+
 Java
 Python
 Cython
 C/Cpp
 Julia
 R
+PDL
+J? 
 JS?
 other?
 
