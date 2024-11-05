@@ -25,14 +25,16 @@ Numerical and data analysis
 * PyTorch, Linux Foundation
 * TensorFlow
 
-Programming Languages
+Libraries <todo: find better name>
+*  Renjin [WP](https://en.wikipedia.org/wiki/Renjin) R interpreter embedded for Java, full two way access between Java and R code, full implementation? relationship to R Consortium if any?
 
+Programming Languages
 * Java
 * Python
 * Cython
 * C/Cpp
 * Julia
-* R
+* R, WP, [WS](https://r-consortium.org/), R Consortium, Linux Foundation
 * PDL
 * J? 
 * JS?
