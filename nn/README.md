@@ -17,6 +17,8 @@ Frameworks
 * PyTorch
 * TensorFlow
 * PaddlePaddle
+* snnTorch
+* BindsNet
 
 Programming Languages
 * Java
