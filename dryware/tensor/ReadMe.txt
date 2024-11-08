@@ -1,3 +1,7 @@
+Things to do
+
+Tensor network theory? <todo: investigate further, looks promissing, >
+
 Map
 Nodes
 Routes
