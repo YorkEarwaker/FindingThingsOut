@@ -1,7 +1,6 @@
 Things to do
 
-Simulation Neuroscience <todo: course in progress>
-https://portal.bluebrain.epfl.ch/resources/online-learning/simulation-neuroscience/
+What next?
 
 Software model of biological neuron cell('s)
 generic model
