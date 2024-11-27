@@ -36,8 +36,10 @@ SpiNNcloud, SpiNNaker 2 base, ARM chip, Globally Asynchronous Locally Synchronou
 SpiNNcloud Systems, [WS](https://spinncloud.com/)
 SpiNNcloud Platform, based on SpiNNaker 2 (BIMPA), ~circa 10 million neurons simulation, 
 
-NEST, nn software, 
-PyNN, nn software, 
+PyNN, Python, various NN types, multiple simulator support, neuromorphic hardware system support, 
+NEST, C++, SNN, simulator, stand alone, command line interface, 
+NEURON, 
+Brain, 
 
 Nanoscale Brain inspired Artificial Synapses 2022 analog deep learning
 
