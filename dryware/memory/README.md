@@ -6,7 +6,7 @@ Memory
 ...
 
 See
-* In Silico GH
+* In Silico [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
 
 In Silico - wafer tech replication? mixed hybrid tech?
 * Recall memory
