@@ -43,6 +43,9 @@ Brain,
 
 Neural Ensemble org, [WS](https://neuralensemble.org/), open source, neurosicence, home of PyNN
 
+Human Brain Project HBP
+EBRAINS (European Brain Research Arm for Innovation, Networking, and Science), successor to HBP
+
 Nanoscale Brain inspired Artificial Synapses 2022 analog deep learning
 
 Neuromorphic Computing
