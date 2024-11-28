@@ -1,3 +1,13 @@
+Things todo
+
+ML numerical analysis framework choice
+
+Linear algebra, matrecies, vectors, statistics
+
+Java
+Python
+R
+
 Machine Learning ML
 
 Numerical and data analysis
