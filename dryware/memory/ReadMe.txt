@@ -36,13 +36,21 @@ SpiNNcloud, SpiNNaker 2 base, ARM chip, Globally Asynchronous Locally Synchronou
 SpiNNcloud Systems, [WS](https://spinncloud.com/)
 SpiNNcloud Platform, based on SpiNNaker 2 (BIMPA), ~circa 10 million neurons simulation, 
 
-PyNN, 'pine', [GH](https://github.com/NeuralEnsemble/PyNN), Python, various NN types, multiple simulator support, neuromorphic hardware system support, 
+PyNN, 'pine', [GH](https://github.com/NeuralEnsemble/PyNN), lib, Python, various NN types, multiple simulator support, neuromorphic hardware system support, connection-set algebra, 
+NineML, lib, connection-set algebra, 
+
 NEST, C++, SNN, simulator, stand alone, command line interface, 
 NEURON, simulator
 Brain, simulator
 Arbor, simulator
 
 Neural Ensemble org, [WS](https://neuralensemble.org/), open source, neurosicence, home of PyNN
+International Neuroinformatics Coordinating Facility org, INCF, [GH](https://github.com/INCF), [WS](https://www.incf.org/), 
+
+Connection-Set Algebra, CSA, [WD](https://www.wikidata.org/wiki/Q46074090) 2011, [WD](https://www.wikidata.org/wiki/Q31052359) 2012, [DOI](https://doi.org/10.1007/s12021-012-9146-1) july 2012, info, implementations in Python, C++, other
+Connection-Set Algebra, CSA, Python, INCF [GH](https://github.com/INCF/csa), lib, 
+Connection-Set Algebra, CSA, Haskell, [WS](https://hackage.haskell.org/package/csa), lib, 
+Connection-Set Algebra, CSA, [PDF](https://neuralensemble.org/media/slides/Djurfeldt_CSA_CodeJam5.pdf), info, Mikael Djurfeldt, INCF/KTH, neuralensemble, presentation - slide deck
 
 Human Brain Project HBP
 EBRAINS (European Brain Research Arm for Innovation, Networking, and Science), successor to HBP
@@ -55,4 +63,8 @@ BrainScaleS - Heidleberg
 
 Brain Inspired Highly Scalable Neuromorphic Hardware
 cointegration of single-transistor neurons and sysnapses with standard CMOS semiconductors
+
+
+
+
 
