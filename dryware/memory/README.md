@@ -7,6 +7,7 @@ Memory
 
 See
 * In Silico [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
+* Neuromorphic Computing [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/Neuromorphic-Computing)
 
 In Silico - wafer tech replication? mixed hybrid tech?
 * Recall memory
