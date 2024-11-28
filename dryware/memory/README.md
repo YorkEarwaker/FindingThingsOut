@@ -1,13 +1,16 @@
+Things to do
+* Select an artificial neuron computational model
+
+See
+* In Silico [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
+* Neuromorphic Computing [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/Neuromorphic-Computing)
+
 Memory
 * Learning
 * Association
 * Reinforcment
 * Feedback loop <todo: better term?>
 ...
-
-See
-* In Silico [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
-* Neuromorphic Computing [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/Neuromorphic-Computing)
 
 In Silico - wafer tech replication? mixed hybrid tech?
 * Recall memory
