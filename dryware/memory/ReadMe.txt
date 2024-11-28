@@ -36,10 +36,11 @@ SpiNNcloud, SpiNNaker 2 base, ARM chip, Globally Asynchronous Locally Synchronou
 SpiNNcloud Systems, [WS](https://spinncloud.com/)
 SpiNNcloud Platform, based on SpiNNaker 2 (BIMPA), ~circa 10 million neurons simulation, 
 
-PyNN, [GH](https://github.com/NeuralEnsemble/PyNN), Python, various NN types, multiple simulator support, neuromorphic hardware system support, 
+PyNN, 'pine', [GH](https://github.com/NeuralEnsemble/PyNN), Python, various NN types, multiple simulator support, neuromorphic hardware system support, 
 NEST, C++, SNN, simulator, stand alone, command line interface, 
-NEURON, 
-Brain, 
+NEURON, simulator
+Brain, simulator
+Arbor, simulator
 
 Neural Ensemble org, [WS](https://neuralensemble.org/), open source, neurosicence, home of PyNN
 
