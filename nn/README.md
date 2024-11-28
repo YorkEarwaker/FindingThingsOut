@@ -1,3 +1,18 @@
+Things todo
+
+Spiking Neural Network SNN, likely SpiNNaker, CSA
+
+See 
+* In Silico <todo: link to repo wiki page>
+* Neuromorphic Computing <todo: link to repo wiki page>
+
+NN deeplearning framework choice? <todo: second order importance, >
+
+Programming Language
+* Java, ?
+* Python, PyNN
+* Cpp,  
+
 Neural Networks NN
 
 Deeplearning, 
