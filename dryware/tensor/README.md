@@ -18,7 +18,7 @@ Mathematics
 * Tensor Network Theory, [WP](https://en.wikipedia.org/wiki/Tensor_network_theory), biology, brain state, geometry, cns,
 
 Biological models
-* Metric tensor, neural network, circuit, column,
+* Metric tensor, neural network, circuit, neural column, 
 * Covarient tensor, sensory input, afferent 
 * Contravarient tensor, motor output, efferant
 
