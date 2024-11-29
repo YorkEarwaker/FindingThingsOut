@@ -1,6 +1,6 @@
 Things to do
 
-Modeling CNS networks and afferent input and effernt output.
+Modeling CNS networks and i/o of afferent input and efferent output.
 
 Interesting cross over with general realtitivy cosmology and possible unified theory to quantum phenomena sub atomic particles particle theory.
 
