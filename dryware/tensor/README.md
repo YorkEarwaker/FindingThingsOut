@@ -4,6 +4,8 @@ Modeling CNS networks and i/o of afferent input and efferent output.
 
 Interesting cross over with general realtitivy cosmology and possible unified theory to quantum phenomena sub atomic particles particle theory.
 
+Definate connection via vetor space to weather and climate models.
+
 <todo: investigate further, looks promissing, >
 
 Map
