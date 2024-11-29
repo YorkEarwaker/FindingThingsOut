@@ -14,4 +14,4 @@ Executive architecture model? short term?
 
 * Tensor, 
 * Tensor Network, [WP](https://en.wikipedia.org/wiki/Tensor_network), quantum, physics, machine learning
-* Tensor Network Theory, [WP](https://en.wikipedia.org/wiki/Tensor_network_theory), biology, brain state, geometry, 
+* Tensor Network Theory, [WP](https://en.wikipedia.org/wiki/Tensor_network_theory), biology, brain state, geometry, cns, 
