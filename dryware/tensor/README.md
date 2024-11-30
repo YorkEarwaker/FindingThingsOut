@@ -17,6 +17,7 @@ Executive architecture model? short term?
 ## References
 
 Mathematics
+* Multilinear algebra, 
 * Tensor, 
 * Tensor Network, [WP](https://en.wikipedia.org/wiki/Tensor_network), quantum, physics, machine learning
 * Tensor Network Theory, [WP](https://en.wikipedia.org/wiki/Tensor_network_theory), biology, brain state, geometry, cns,
@@ -24,6 +25,6 @@ Mathematics
 
 Biological models
 * Metric tensor, neural network, circuit, neural column, differential geometry
-* Covarient tensor, sensory input, afferent 
-* Contravarient tensor, motor output, efferant
+* Covarient tensor, sensory input, afferent, covector aka dual vector
+* Contravarient tensor, motor output, efferant, vector
 
