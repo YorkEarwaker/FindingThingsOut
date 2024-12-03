@@ -9,14 +9,19 @@ Papers
 
 Terms
 * Biological neuron model, [WP](https://en.wikipedia.org/wiki/Biological_neuron_model)
-* Compartmental neuron models, 
-* Leaky integrate and fire model, dendrites, electrical behaviour of complex dendrites, 
-* Hodgkin-Huxley model,
-* FitzHugh-Nagumo model, 
-* Hindmarsh-Rose model,
-* Hebbian learning, 
-* Spike timing dependent platicity STDP, 
-* Spike Frequency Adaptation SFA, 
-* Neural coding, temporal coding, rate of communication, 
+* Neuron, Compartmental neuron models, dendrites, electrical behaviour of complex dendrites,
+* Neuron, Spike Frequency Adaptation SFA, 
+* Neuron, Neural coding, temporal coding, rate of communication, 
+* Network, Leaky integrate and fire model, 
+* Network, Hodgkin-Huxley model,
+* Network, FitzHugh-Nagumo model, 
+* Network, Hindmarsh-Rose model, 
+* Learning, Spike timing dependent platicity STDP,
+* Learning, Voltage dependent synaptic platicity VDSP
+* Learning, Hebbian plasticity, Hebbian learning,
+* Learning, Homeostatic plasticity
+* Learning, Spike dependent platicity
 * Sandbox, [WP](https://en.wikipedia.org/wiki/Sandbox_(software_development))
 * Spiking Neural Network SNN, [WP](https://en.wikipedia.org/wiki/Spiking_neural_network)
+
+
