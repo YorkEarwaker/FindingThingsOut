@@ -17,9 +17,11 @@ Terms
 * Neuron, Spike Frequency Adaptation SFA, 
 * Neuron, Neural coding, temporal coding, rate of communication, 
 * Network, Leaky integrate and fire model, 
-* Network, Hodgkin-Huxley model,
+* Network, Hodgkin-Huxley model, 
+* Network, Izhikevich model, 
 * Network, FitzHugh-Nagumo model, 
-* Network, Hindmarsh-Rose model, 
+* Network, Hindmarsh-Rose model,
+* Learning rule, [WP](https://en.wikipedia.org/wiki/Learning_rule), 
 * Learning, Spike timing dependent platicity STDP,
 * Learning, Voltage dependent synaptic platicity VDSP
 * Learning, Hebbian plasticity, Hebbian learning,
