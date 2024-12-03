@@ -21,7 +21,9 @@ Terms
 * Network, Izhikevich model, 
 * Network, FitzHugh-Nagumo model, 
 * Network, Hindmarsh-Rose model,
-* Learning rule, [WP](https://en.wikipedia.org/wiki/Learning_rule), 
+* Learning rule, [WP](https://en.wikipedia.org/wiki/Learning_rule),
+* Rule, Oja's Rule, 
+* Rule, BCM Theory, 
 * Learning, Spike timing dependent platicity STDP,
 * Learning, Voltage dependent synaptic platicity VDSP
 * Learning, Hebbian plasticity, Hebbian learning,
