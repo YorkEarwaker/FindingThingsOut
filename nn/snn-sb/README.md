@@ -1,6 +1,6 @@
 # Spiking Neural Network
 
-Fun with SNN's .
+Sandbox fun with SNN's .
 
 ## References
 
