@@ -8,7 +8,7 @@ Papers
 * High-performance deep spiking neural networks with 0.3 spikes per neuron. 9 August 2024, Stanojevic, A., Woźniak, S., Bellec, G. et al., Nat Commun 15, 6793 (2024). [DOI](https://doi.org/10.1038/s41467-024-51110-5), [WS](https://www.nature.com/articles/s41467-024-51110-5)
 
 News Papers
-* Best Framework for Implementing Multi-Compartment SNN with Meta-Plasticity on BrainScaleS-2: PyNN or hsTorch?, [WS](https://ai.stackexchange.com/questions/46942/best-framework-for-implementing-multi-compartment-snn-with-meta-plasticity-on-br), AI, Stackexchange, 
+* Best Framework for Implementing Multi-Compartment SNN with Meta-Plasticity on BrainScaleS-2: PyNN or hsTorch?, [WS](https://ai.stackexchange.com/questions/46942/best-framework-for-implementing-multi-compartment-snn-with-meta-plasticity-on-br), 8 October 2024, AI, Stackexchange, 
 
 Terms
 * Biological neuron model, [WP](https://en.wikipedia.org/wiki/Biological_neuron_model)
