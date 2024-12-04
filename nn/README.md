@@ -2,13 +2,15 @@
 
 Artificial neural networks and simulation of biological neural networks.
 
-* Spiking neural network SNN, also Deeplearning, 
+* Spiking neural network SNN, pulse coupled neural network PCNN, higher order network HON, ...
 * Many overlaps with graphics, for example general programming for GPU's.  
 * Many overlaps with ML. But focus on neural nets not numerical and data analysis.
 
 TODO
 * <todo: Spiking Neural Network SNN, likely SpiNaker, CSA, PyNN, NEST, >
-* <todo: second order importance, NN deeplearning framework choice?, >
+* <todo: consider, pulse coupled neural network PCNN, type of SNN, what is the delta?, what is the overlap?, any practical difference with SNN? >
+* <todo: consider, higher order network HON, investigate further, >
+* <todo: NN deeplearning framework choice?, second order importance, >
 
 See 
 * In Silico, [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
