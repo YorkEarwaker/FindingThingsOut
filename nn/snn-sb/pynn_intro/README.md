@@ -1,3 +1,9 @@
+# PyNN Intro
+
 Gettiing to know pine
 
-PyNN introductory code samples
+TODO
+<todo: PyNN introductory code samples,  >
+
+## References
+* <todo: pine links>
