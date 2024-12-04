@@ -10,4 +10,6 @@ TODO
 ## References
 
 * Adjacency list, [WP](https://en.wikipedia.org/wiki/Adjacency_list), graph theory
-* NEST [WP](https://en.wikipedia.org/wiki/NEST_(software))
+* Adjacency matrix, 
+* Locality of reference, 
+* NEST, [WP](https://en.wikipedia.org/wiki/NEST_(software)), 
