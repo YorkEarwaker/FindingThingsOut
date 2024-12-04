@@ -6,8 +6,8 @@ TODO
 * <todo: Two neurons. I/O. Single compartment model. >
 * <todo: Two neurons. I/O. Multi compartment model. >
 * <todo: Three neurons. Interneuron network example, >
-* <todo: Mini circuit. three neurons? how to prevent infinate recurssion loops? requires environment for leakage and signal weakening, >
-* <todo: Two mini circuits.  >
+* <todo: One mini circuit. three neurons? how to prevent infinate recurssion loops? requires environment for leakage and signal weakening, >
+* <todo: Two mini circuits. n? neurons? no/some interneurons? >
 
 ## References
 
