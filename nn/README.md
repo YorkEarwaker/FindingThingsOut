@@ -15,7 +15,7 @@ See
 * Neuromorphic Computing [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/Neuromorphic-Computing)
 
 Programming Language
-* Java, lib?, NEST? Neuroph? <todo: where is Java in AI? >
+* Java, lib?, NEST? Neuroph? FANN? DL4J? <todo: where is Java in AI? >
 * Python, PyNN, NEST
 * Cython, lib?, NEST
 * Cpp, lib?, NEST
