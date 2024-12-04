@@ -12,7 +12,7 @@ News Papers
 * Best Framework for Implementing Multi-Compartment SNN with Meta-Plasticity on BrainScaleS-2: PyNN or hsTorch?, [WS](https://ai.stackexchange.com/questions/46942/best-framework-for-implementing-multi-compartment-snn-with-meta-plasticity-on-br), 8 October 2024, AI, Stackexchange, 
 
 Terms
-* Biological neuron model, [WP](https://en.wikipedia.org/wiki/Biological_neuron_model)
+* BNN, Biological neuron model, [WP](https://en.wikipedia.org/wiki/Biological_neuron_model)
 * Neuron, Compartmental neuron models, dendrites, electrical behaviour of complex dendrites,
 * Neuron, Spike Frequency Adaptation SFA, 
 * Neuron, Neural coding, temporal coding, rate of communication, 
@@ -30,6 +30,7 @@ Terms
 * Learning, Homeostatic plasticity
 * Learning, Spike dependent platicity
 * Sandbox, [WP](https://en.wikipedia.org/wiki/Sandbox_(software_development))
-* Spiking Neural Network SNN, [WP](https://en.wikipedia.org/wiki/Spiking_neural_network)
+* SNN, Spiking neural network SNN, [WP](https://en.wikipedia.org/wiki/Spiking_neural_network)
+* SNN, Pulse coupled neural netowrk PCNN, [WP](https://en.wikipedia.org/wiki/Pulse-coupled_networks), special case SNN, delta, overlap, differences, <todo: seperate repository?>
 
 
