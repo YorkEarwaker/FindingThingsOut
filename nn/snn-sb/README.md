@@ -24,11 +24,11 @@ Terms
 * Learning rule, [WP](https://en.wikipedia.org/wiki/Learning_rule),
 * Rule, Oja's Rule, 
 * Rule, BCM Theory, 
-* Learning, Spike timing dependent platicity STDP,
-* Learning, Voltage dependent synaptic platicity VDSP
+* Learning, Spike timing dependent plasticity STDP,
+* Learning, Voltage dependent synaptic plasticity VDSP
 * Learning, Hebbian plasticity, Hebbian learning,
 * Learning, Homeostatic plasticity
-* Learning, Spike dependent platicity
+* Learning, Spike dependent plasticity
 * Sandbox, [WP](https://en.wikipedia.org/wiki/Sandbox_(software_development))
 * SNN, Spiking neural network SNN, [WP](https://en.wikipedia.org/wiki/Spiking_neural_network)
 * SNN, Pulse coupled neural netowrk PCNN, [WP](https://en.wikipedia.org/wiki/Pulse-coupled_networks), special case SNN, delta, overlap, differences, <todo: seperate repository?>
