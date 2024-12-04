@@ -36,3 +36,4 @@ Frameworks
 
 ## References
 * Comparison of deep learning software, [WP](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
+* Comparion of learning rules, No WP article currently, requirement table by NN type; CNN, RNN, PCNN, SNN (semantic), SNN (spiking), ... , other attributes tbc, 
