@@ -1,18 +1,15 @@
-Things to do
+# Tensor networks
 
-Modeling CNS networks and i/o of afferent input and efferent output.
+Tensor network, tensor network theory, ... . Modeling CNS networks and i/o of afferent input and efferent output.
 
 Interesting cross over with general realtitivy cosmology and possible unified theory to quantum phenomena sub atomic particles particle theory.
 
 Definate connection via vetor space to weather and climate models.
 
-<todo: investigate further, looks promissing, >
-
-Map
-Nodes
-Routes
-
-Executive architecture model? short term?
+TODO
+* <todo: hello world example, map, nodes, routes, >
+* <todo: investigate further, looks promissing, >
+* <todo: investigate possiblility as executive architecture model? short term? >
 
 ## References
 
