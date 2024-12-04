@@ -1,4 +1,4 @@
-# NEST Inro
+# NEST Intro
 
 NEST (Neural Simulaiton Tool) introduction. Spiking Neural Netowrk SNN simulation.
 
