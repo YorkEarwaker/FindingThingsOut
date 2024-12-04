@@ -7,7 +7,8 @@ Artificial neural networks and simulation of biological neural networks.
 * Many overlaps with ML. But focus on neural nets not numerical and data analysis.
 
 TODO
-* <todo: Spiking Neural Network SNN, likely SpiNaker, CSA, PyNN, NEST, >
+* <todo: SNN simulation, CSA, PyNN, NEST, >
+* <todo: SSN hardware, likely SpiNNaker, PyNN, NEST, other? >
 * <todo: consider, pulse coupled neural network PCNN, type of SNN, what is the delta?, what is the overlap?, any practical difference with SNN? >
 * <todo: consider, higher order network HON, investigate further, >
 * <todo: NN deeplearning framework choice?, second order importance, >
