@@ -25,11 +25,18 @@ TODO
 DONE
 * <done: downloaded NEST source code, as zip file, don't know if it will compile on MS Windows, >
 
-Version
-* NEST v3.7 [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), 
+Simulator - modeling, execution
+* NEST v3.7, code [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), 
 * NEST docs [WS](https://nest-simulator.readthedocs.io/en/stable/),
 * NEST MS Win [WS](https://nest-simulator.readthedocs.io/en/stable/installation/user.html#windows-install), no good install options for windows users
-* NEST compile instructions [WS](https://nest-simulator.readthedocs.io/en/stable/installation/noenv_install.html), cmake options [WS](https://nest-simulator.readthedocs.io/en/stable/installation/cmake_options.html#cmake-options), can nest be compiled for windows? requires C++ 17 compiler. 
+* NEST compile instructions [WS](https://nest-simulator.readthedocs.io/en/stable/installation/noenv_install.html), cmake options [WS](https://nest-simulator.readthedocs.io/en/stable/installation/cmake_options.html#cmake-options), can nest be compiled for windows? requires C++ 17 compiler.
+
+Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST install?
+* Nest Desktop, code [GH](https://github.com/nest-desktop/nest-desktop/),
+* Nest Desktop, docs [WS](https://nest-desktop.readthedocs.io/en/latest/),
+* Nest Desktop, PyPi [WS](https://pypi.org/project/nest-desktop/),
+* Nest Desktop, Zenodo [WS](https://zenodo.org/records/6320318), 
+* Nest Desktop, Ebrains [WS](https://www.ebrains.eu/tools/nest-desktop), requires Ebrains account, free
 
 ## References
 
