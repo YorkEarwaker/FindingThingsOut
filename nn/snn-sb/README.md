@@ -2,6 +2,12 @@
 
 Sandbox fun with SNN's .
 
+### Simulators
+* Arbor, [WS](https://arbor-sim.org/), PyNN compatible
+* Brain, [WS](https://briansimulator.org/), PyNN compatible
+* NEST, [WS](https://nest-initiative.org/), PyNN compatible
+* Neuron, [WS](https://www.neuron.yale.edu/neuron/), PyNN compatible
+
 ## References
 
 Papers
