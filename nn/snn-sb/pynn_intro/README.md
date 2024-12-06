@@ -3,6 +3,8 @@
 Gettiing to know pine
 
 TODO
+* <todo: download simulator, Arbor, Brain 2, NEST, or Neuron, . Must a sim be installed? likely yes. >
+* <todo: determine if any of the optional installs are necessary for simulator choice, >
 * <todo: PyNN introductory code samples,  >
 
 DONE
@@ -45,6 +47,12 @@ Downloading h5py-3.12.1-cp312-cp312-win_amd64.whl (3.0 MB)
 Downloading packaging-24.2-py3-none-any.whl (65 kB)
 Installing collected packages: packaging, numpy, quantities, lazyarray, h5py, neo, morphio, PyNN
 Successfully installed PyNN-0.12.3 h5py-3.12.1 lazyarray-0.6.0 morphio-3.4.0 neo-0.13.4 numpy-1.26.4 packaging-24.2 quantities-0.16.1
+
+### Simulators
+* Arbor, [WS](https://arbor-sim.org/), PyNN compatible
+* Brain, [WS](https://briansimulator.org/), PyNN compatible
+* NEST, [WS](https://nest-initiative.org/), PyNN compatible
+* Neuron, [WS](https://www.neuron.yale.edu/neuron/), PyNN compatible
 
 ## References
 
