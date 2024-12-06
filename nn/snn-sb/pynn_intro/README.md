@@ -52,6 +52,14 @@ Downloading packaging-24.2-py3-none-any.whl (65 kB)
 Installing collected packages: packaging, numpy, quantities, lazyarray, h5py, neo, morphio, PyNN
 Successfully installed PyNN-0.12.3 h5py-3.12.1 lazyarray-0.6.0 morphio-3.4.0 neo-0.13.4 numpy-1.26.4 packaging-24.2 quantities-0.16.1
 
+### Neuron install
+
+<todo: troubleshoot error, read the docs, >
+
+pip install neuron
+ERROR: Could not find a version that satisfies the requirement neuron (from versions: none)
+ERROR: No matching distribution found for neuron
+
 ### Simulators
 * Arbor, [WS](https://arbor-sim.org/), PyNN compatible
 * Brain, [WS](https://briansimulator.org/), PyNN compatible
