@@ -49,7 +49,7 @@ Successfully installed PyNN-0.12.3 h5py-3.12.1 lazyarray-0.6.0 morphio-3.4.0 neo
 ## References
 
 PyNN links
-* PyNN Docs [WS]()
+* PyNN Docs [WS](https://neuralensemble.org/docs/PyNN/index.html)
 
 PyNN lib dependencies default
 * h5py
