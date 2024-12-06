@@ -2,6 +2,10 @@
 
 Gettiing to know pine
 
+### Status
+
+Can't use NEST on MS Win straightaway will require real effort. See NEST Intro for details.
+
 TODO
 * <todo: download simulator, Arbor, Brain 2, NEST, or Neuron, . Must a sim be installed? likely yes. >
 * <todo: determine if any of the optional installs are necessary for simulator choice, >
