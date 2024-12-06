@@ -4,15 +4,21 @@ Gettiing to know pine
 
 ### Status
 
+PyNN on Windows has not been tested.
+
 Can't use NEST on MS Win straightaway will require real effort. See NEST Intro for details.
+
+Neuron install not working first instance.
 
 TODO
 * <todo: download simulator, Arbor, Brain 2, NEST, or Neuron, . Must a sim be installed? likely yes. >
+* <todo: read Neuron docs re MS Win install options, if any, >
 * <todo: determine if any of the optional installs are necessary for simulator choice, >
 * <todo: PyNN introductory code samples,  >
 
 DONE
 * <done: install pynn in local dev environment, 06/12/2024, >
+* <done: evaluated install of NEST on MS Win no simple options, > 
 
 ### PyNN install 
 
