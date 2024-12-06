@@ -30,4 +30,5 @@ Version
 * Adjacency list, [WP](https://en.wikipedia.org/wiki/Adjacency_list), graph theory
 * Adjacency matrix, [WP](https://en.wikipedia.org/wiki/Adjacency_matrix), graph theory
 * Locality of reference, memory space, memory time, 
-* NEST, [WP](https://en.wikipedia.org/wiki/NEST_(software)), 
+* NEST, [WP](https://en.wikipedia.org/wiki/NEST_(software)),
+* PyNEST Python API for NEST, 
