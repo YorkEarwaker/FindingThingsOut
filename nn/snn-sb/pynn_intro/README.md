@@ -51,7 +51,7 @@ Successfully installed PyNN-0.12.3 h5py-3.12.1 lazyarray-0.6.0 morphio-3.4.0 neo
 ### Simulators
 * Arbor, [WS](https://arbor-sim.org/), PyNN compatible
 * Brain, [WS](https://briansimulator.org/), PyNN compatible
-* NEST, [WS](https://nest-initiative.org/), PyNN compatible
+* NEST, [GH](https://github.com/nest/nest-simulator), institute [WS](https://nest-initiative.org/), simulator [WS](https://nest-simulator.org/), PyNN compatible
 * Neuron, [WS](https://www.neuron.yale.edu/neuron/), PyNN compatible
 
 ## References
