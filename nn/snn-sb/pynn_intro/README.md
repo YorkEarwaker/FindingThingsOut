@@ -78,6 +78,10 @@ WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status
 ERROR: Could not find a version that satisfies the requirement neuron (from versions: none)
 ERROR: No matching distribution found for neuron
 
+pip3 install Neuron
+ERROR: Could not find a version that satisfies the requirement Neuron (from versions: none)
+ERROR: No matching distribution found for Neuron
+
 ### Simulators
 * Arbor, [WS](https://arbor-sim.org/), PyNN compatible
 * Brain, [WS](https://briansimulator.org/), PyNN compatible
