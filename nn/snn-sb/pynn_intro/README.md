@@ -47,7 +47,18 @@ Installing collected packages: packaging, numpy, quantities, lazyarray, h5py, ne
 Successfully installed PyNN-0.12.3 h5py-3.12.1 lazyarray-0.6.0 morphio-3.4.0 neo-0.13.4 numpy-1.26.4 packaging-24.2 quantities-0.16.1
 
 ## References
-* <todo: pine links>
+
+PyNN links
+* PyNN Docs [WS]()
+
+PyNN lib dependencies default
+* h5py
+* lazyarray
+* morphio, [GH](https://github.com/BlueBrain/MorphIO), Blue Brain project,
+* neo
+* numpy
+* packaging
+* quantities
 
 Test
 * 
