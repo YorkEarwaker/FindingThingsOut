@@ -17,7 +17,7 @@ TODO
 * <todo: consider also NEST Cpp api. Good excuse for some fun with Cpp code! >
 
 DONE
-* <done: n/a>
+* <done: downloaded NEST source code, as zip file, don't know if it will compile on MS Windows, >
 
 Version
 * NEST v3.7 [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), 
