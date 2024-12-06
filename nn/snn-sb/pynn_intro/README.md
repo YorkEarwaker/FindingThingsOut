@@ -70,6 +70,14 @@ pip install neuron
 ERROR: Could not find a version that satisfies the requirement neuron (from versions: none)
 ERROR: No matching distribution found for neuron
 
+pip3 install neuron
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /simple/neuron/
+WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /simple/neuron/
+WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /simple/neuron/
+WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /simple/neuron/
+ERROR: Could not find a version that satisfies the requirement neuron (from versions: none)
+ERROR: No matching distribution found for neuron
+
 ### Simulators
 * Arbor, [WS](https://arbor-sim.org/), PyNN compatible
 * Brain, [WS](https://briansimulator.org/), PyNN compatible
