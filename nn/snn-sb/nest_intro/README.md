@@ -9,6 +9,8 @@ Only supported options for MS WIN appear to be; Docker image, or Linux environme
 
 NEST JupiterLab option?
 
+Does not appear to be a VS Code option.
+
 try conda python env? Probably not possible due to lack of MS Win binary.
 * conda install -c conda-forge nest
 * conda install -c conda-forge pynest
