@@ -73,8 +73,8 @@ ERROR: No matching distribution found for neuron
 ### Simulators
 * Arbor, [WS](https://arbor-sim.org/), PyNN compatible
 * Brain, [WS](https://briansimulator.org/), PyNN compatible
-* NEST, [GH](https://github.com/nest/nest-simulator), institute [WS](https://nest-initiative.org/), simulator [WS](https://nest-simulator.org/), PyNN compatible, No MS Win binary download, 
-* Neuron, [WS](https://www.neuron.yale.edu/neuron/), PyNN compatible
+* NEST, [GH](https://github.com/nest/nest-simulator), PyPi <todo: find it>, institute [WS](https://nest-initiative.org/), simulator [WS](https://nest-simulator.org/), PyNN compatible, No MS Win binary download, 
+* Neuron, PyPi [WS](https://pypi.org/project/NEURON/), [WS](https://www.neuron.yale.edu/neuron/), PyNN compatible
 
 ## References
 
