@@ -6,9 +6,11 @@ TODO
 * <todo: PyNN introductory code samples,  >
 
 DONE
-* <done: install pynn in local dev environment, >
+* <done: install pynn in local dev environment, 06/12/2024, >
 
-## PyNN install <todo: how to format/comment md content so that it CR NL are recongnised, >
+### PyNN install 
+
+<todo: how to format/comment md content so that it CR NL are recongnised, >
 
 pip install PyNN
 Collecting PyNN
