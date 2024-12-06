@@ -7,6 +7,8 @@ Have downloaded NEST source code. But don't know if it will compile on MS Window
 
 Only supported options for MS WIN appear to be; Docker image, or Linux environment simualtor.
 
+NEST JupiterLab option?
+
 try conda python env? Probably not possible due to lack of MS Win binary.
 * conda install -c conda-forge nest
 * conda install -c conda-forge pynest
