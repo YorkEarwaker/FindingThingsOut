@@ -1,3 +1,3 @@
 # configuration
 
-project configuration 
+Project configuration 
