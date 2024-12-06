@@ -11,8 +11,9 @@ DONE
 * <done: n/a>
 
 Version
-* NEST v3.7 [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7),
-* NEST docs [WS](https://nest-simulator.readthedocs.io/en/stable/), 
+* NEST v3.7 [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), can nest be compiled for windows? requires C++ 17 compiler. 
+* NEST docs [WS](https://nest-simulator.readthedocs.io/en/stable/),
+* NEST MS Win [WS](https://nest-simulator.readthedocs.io/en/stable/installation/user.html#windows-install) no good install options for windows users.
 
 ## References
 
