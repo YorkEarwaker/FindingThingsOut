@@ -8,4 +8,4 @@ reStructuredText (RST) markup language .rst
 * technical documentation
 * in line documentation
 * Docutils - library for processing RST files
-* UnstructuredRTSLoader - library for laoding data from RST files
+* UnstructuredRSTLoader - library for laoding data from RST files
