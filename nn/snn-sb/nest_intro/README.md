@@ -7,6 +7,13 @@ TODO
 * <todo: likely PyNN over NEST. >
 * <todo: consider also NEST Cpp api. Good excuse for some fun with Cpp code! >
 
+DONE
+* <done: n/a>
+
+Version
+* NEST v3.7 [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7),
+* NEST docs [WS](https://nest-simulator.readthedocs.io/en/stable/), 
+
 ## References
 
 * Adjacency list, [WP](https://en.wikipedia.org/wiki/Adjacency_list), graph theory
