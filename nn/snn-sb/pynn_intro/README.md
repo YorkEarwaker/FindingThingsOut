@@ -8,7 +8,11 @@ PyNN on Windows has not been tested.
 
 Can't use NEST on MS Win straightaway will require real effort. See NEST Intro for details.
 
-Neuron install not working first instance. Consier Neuron JupiterLab option? 
+Neuron install not working first instance. 
+
+Neuron JupiterLab option? 
+
+IDE. VS Code extension option? Eclipse plugin option?
 
 TODO
 * <todo: download simulator, Arbor, Brain 2, NEST, or Neuron, . Must a sim be installed? likely yes. >
