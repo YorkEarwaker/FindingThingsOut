@@ -8,3 +8,6 @@ Toward an artificial general intelligence (AGI). AGI is a hardware issue not a s
 Reductionism. Materialism. Holarchies.
 
 Lower order priority. Neural networks and deep learning
+
+Organisations
+* Ebrains [WS](https://www.ebrains.eu/), EU, neuroscience, neuroinformatics, neurocomputing, 
