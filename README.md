@@ -11,3 +11,4 @@ Lower order priority. Neural networks and deep learning
 
 Organisations
 * Ebrains [WS](https://www.ebrains.eu/), EU, neuroscience, neuroinformatics, neurocomputing, 
+* Blue Brain project, 
