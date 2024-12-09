@@ -16,7 +16,7 @@ try conda python env? Probably not possible due to lack of MS Win binary.
 * conda install -c conda-forge pynest
 
 TODO
-* <todo: consider, Ubuntu WSL< linux OS simulation env for NEST install, >
+* <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
 * <todo: contact NEST team, enquire re conda, enquire re compilation on MS Win, >
 * <todo: install conda, use conda as NEST python env, try conda install, may fail due to no MS Win binary? worth a try?>
 * <todo: go through the documentation and implement some of the code examples. >
