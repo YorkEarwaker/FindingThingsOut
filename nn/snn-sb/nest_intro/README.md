@@ -26,6 +26,8 @@ TODO
 DONE
 * <done: downloaded NEST source code, as zip file, don't know if it will compile on MS Windows, >
 
+# Libraries
+
 Simulator - modeling, execution
 * NEST v3.7, code [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), 
 * NEST docs [WS](https://nest-simulator.readthedocs.io/en/stable/),
@@ -38,6 +40,9 @@ Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST i
 * Nest Desktop, PyPi [WS](https://pypi.org/project/nest-desktop/),
 * Nest Desktop, Zenodo [WS](https://zenodo.org/records/6320318), 
 * Nest Desktop, Ebrains [WS](https://www.ebrains.eu/tools/nest-desktop), requires Ebrains account, free
+
+Linux simulator
+* Ubuntu WSL, [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST, 
 
 ## References
 
