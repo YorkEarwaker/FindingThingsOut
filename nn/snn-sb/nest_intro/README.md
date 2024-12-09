@@ -43,7 +43,8 @@ Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST i
 * Nest Desktop, Ebrains [WS](https://www.ebrains.eu/tools/nest-desktop), requires Ebrains account, free
 
 Linux simulator
-* Ubuntu WSL, [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST, [WS](https://www.reddit.com/r/bashonubuntuonwindows/) subreddit WSL/WSL2,
+* Ubuntu WSL, docs [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST,
+* Ubuntu WSL/WSL2 subreddit, [WS](https://www.reddit.com/r/bashonubuntuonwindows/) 
 
 ## References
 Terms
