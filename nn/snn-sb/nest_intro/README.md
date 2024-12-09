@@ -17,6 +17,7 @@ try conda python env? Probably not possible due to lack of MS Win binary.
 
 TODO
 * <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
+* <todo: determine, Ubuntu WSL and Eclipse win install compatability, >
 * <todo: consider, WSL2 comparision to WSL, WSL2 a fully fledged light weight virtual machine? WSL layer over Win linux compatible kernel interface? >
 * <todo: contact NEST team, enquire re conda, enquire re compilation on MS Win, >
 * <todo: install conda, use conda as NEST python env, try conda install, may fail due to no MS Win binary? worth a try?>
@@ -45,7 +46,7 @@ Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST i
 Linux simulator
 * Ubuntu WSL, docs [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST,
 * Ubuntu WSL/WSL2 subreddit, [WS](https://www.reddit.com/r/bashonubuntuonwindows/)
-* ubuntu Eclipse compatability? 
+* 
 
 ## References
 Terms
