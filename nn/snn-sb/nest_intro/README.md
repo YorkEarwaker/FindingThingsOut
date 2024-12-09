@@ -17,6 +17,7 @@ try conda python env? Probably not possible due to lack of MS Win binary.
 
 TODO
 * <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
+* <todo: consider, WSL2 comparision to WSL, WSL2 a fully fledged light weight virtual machine? WSL layer over Win linux compatible kernel interface? >
 * <todo: contact NEST team, enquire re conda, enquire re compilation on MS Win, >
 * <todo: install conda, use conda as NEST python env, try conda install, may fail due to no MS Win binary? worth a try?>
 * <todo: go through the documentation and implement some of the code examples. >
@@ -45,9 +46,12 @@ Linux simulator
 * Ubuntu WSL, [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST, 
 
 ## References
-
+Terms
 * Adjacency list, [WP](https://en.wikipedia.org/wiki/Adjacency_list), graph theory
 * Adjacency matrix, [WP](https://en.wikipedia.org/wiki/Adjacency_matrix), graph theory
 * Locality of reference, memory space, memory time, 
 * NEST, [WP](https://en.wikipedia.org/wiki/NEST_(software)),
-* PyNEST Python API for NEST, 
+* PyNEST Python API for NEST,
+
+News Papers
+* Is there any advantage to WSL over Cygwin? [WS](https://www.reddit.com/r/linux/comments/10x8mcw/is_there_any_advantage_to_wsl_over_cygwin/?rdt=48034), Reddit, 
