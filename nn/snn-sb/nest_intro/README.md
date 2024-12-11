@@ -48,7 +48,7 @@ Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST i
 WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
 * Ubuntu WSL, docs [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST,
 * Ubuntu WSL/WSL2 subreddit, [WS](https://www.reddit.com/r/bashonubuntuonwindows/)
-* WSL Basic Commands, [WS](https://learn.microsoft.com/en-us/windows/wsl/basic-commands), Microsoft,
+* WSL Basic Commands, docs [WS](https://learn.microsoft.com/en-us/windows/wsl/basic-commands), Microsoft,
 * 
 
 ## References
@@ -77,6 +77,6 @@ NEST GitHub, issues windows
 
 WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
 * Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
-* 
+* Do I need to reinstall Ubuntu after installing WSL 2?, [WS](https://superuser.com/questions/1582347/do-i-need-to-reinstall-ubuntu-after-installing-wsl-2), StackExchange, SuperUser,
 
 * 
