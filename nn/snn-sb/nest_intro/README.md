@@ -68,7 +68,11 @@ NEST GitHub, issues WSL
 * Testsuite error in windows subsystem for linux (ubuntu) #1048, [GH](https://github.com/nest/nest-simulator/issues/1048), 15 October 2018,
 * AST-based root module importmap, static typehints, and CI check #2598, [GH](https://github.com/nest/nest-simulator/issues/2598), 30 Jan 2023,
 * nest.NodeCollection([0]) aborts the process #2636, [GH](https://github.com/nest/nest-simulator/issues/2636), 14 March 2023,
-* Unsorted node collection indices lead to unclear error message #2639, [GH](https://github.com/nest/nest-simulator/issues/2639), 14 March 2023, 
+* Unsorted node collection indices lead to unclear error message #2639, [GH](https://github.com/nest/nest-simulator/issues/2639), 14 March 2023,
+
+NEST GitHub, issues windows
+* nest-simulator on windows. #889, [GH](https://github.com/nest/nest-simulator/issues/889), 3 February 2028
+* More to review and list, ...
 
 WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
 * Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
