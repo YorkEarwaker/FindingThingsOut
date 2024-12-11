@@ -60,8 +60,14 @@ Terms
 News Papers
 * Is there any advantage to WSL over Cygwin? [WS](https://www.reddit.com/r/linux/comments/10x8mcw/is_there_any_advantage_to_wsl_over_cygwin/?rdt=48034), 2022, Reddit,
 * Eclipse-WSL, [WS](https://learn.microsoft.com/en-us/answers/questions/1181705/eclipse-wsl), 17 February 2023, learn MS,
-* NEST on Windows subsystem for Linux (WSL) #1520, [GH](NEST on Windows subsystem for Linux (WSL) #1520), NEST GitHub,
-* Installing nest on Windows or WSL #2185, [GH](https://github.com/nest/nest-simulator/issues/2185), 11 Oct 2021, 
+
+NEST GitHub, issues WSL
+* NEST on Windows subsystem for Linux (WSL) #1520, [GH]([https://github.com/nest/nest-simulator/issues/1520), 8 June 2020, 
+* Installing nest on Windows or WSL #2185, [GH](https://github.com/nest/nest-simulator/issues/2185), 11 Oct 2021,
+* Testsuite error in windows subsystem for linux (ubuntu) #1048, [GH](https://github.com/nest/nest-simulator/issues/1048), 15 October 2018,
+* AST-based root module importmap, static typehints, and CI check #2598, [GH](https://github.com/nest/nest-simulator/issues/2598), 30 Jan 2023,
+* nest.NodeCollection([0]) aborts the process #2636, [GH](https://github.com/nest/nest-simulator/issues/2636), 14 March 2023,
+* Unsorted node collection indices lead to unclear error message #2639, [GH](https://github.com/nest/nest-simulator/issues/2639), 14 March 2023, 
 
 WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
 * Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
