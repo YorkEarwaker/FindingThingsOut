@@ -78,5 +78,4 @@ NEST GitHub, issues windows
 WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
 * Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
 * Do I need to reinstall Ubuntu after installing WSL 2?, [WS](https://superuser.com/questions/1582347/do-i-need-to-reinstall-ubuntu-after-installing-wsl-2), StackExchange, SuperUser,
-
 * 
