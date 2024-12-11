@@ -35,6 +35,7 @@ Simulator - modeling, execution
 * NEST docs [WS](https://nest-simulator.readthedocs.io/en/stable/),
 * NEST MS Win [WS](https://nest-simulator.readthedocs.io/en/stable/installation/user.html#windows-install), no good install options for windows users
 * NEST compile instructions [WS](https://nest-simulator.readthedocs.io/en/stable/installation/noenv_install.html), cmake options [WS](https://nest-simulator.readthedocs.io/en/stable/installation/cmake_options.html#cmake-options), can nest be compiled for windows? requires C++ 17 compiler.
+* NEST Mailing list, [WS](https://www.nest-simulator.org/mailinglist/postorius/lists/users.nest-simulator.org/), register, log in, 
 
 Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST install?
 * Nest Desktop, code [GH](https://github.com/nest-desktop/nest-desktop/),
@@ -43,7 +44,7 @@ Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST i
 * Nest Desktop, Zenodo [WS](https://zenodo.org/records/6320318), 
 * Nest Desktop, Ebrains [WS](https://www.ebrains.eu/tools/nest-desktop), requires Ebrains account, free
 
-Linux simulator
+WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
 * Ubuntu WSL, docs [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST,
 * Ubuntu WSL/WSL2 subreddit, [WS](https://www.reddit.com/r/bashonubuntuonwindows/)
 * 
@@ -59,5 +60,11 @@ Terms
 News Papers
 * Is there any advantage to WSL over Cygwin? [WS](https://www.reddit.com/r/linux/comments/10x8mcw/is_there_any_advantage_to_wsl_over_cygwin/?rdt=48034), 2022, Reddit,
 * Eclipse-WSL, [WS](https://learn.microsoft.com/en-us/answers/questions/1181705/eclipse-wsl), 17 February 2023, learn MS,
+* NEST on Windows subsystem for Linux (WSL) #1520, [GH](NEST on Windows subsystem for Linux (WSL) #1520), NEST GitHub,
+* Installing nest on Windows or WSL #2185, [GH](https://github.com/nest/nest-simulator/issues/2185), 11 Oct 2021, 
+
+WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
+* Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
+* 
 
 * 
