@@ -3,17 +3,7 @@
 NEST (Neural Simulaiton Tool) introduction. Spiking Neural Netowrk SNN simulation.
 
 ### Status
-Have downloaded NEST source code. But don't know if it will compile on MS Windows. There are no other good download options for native execution on Windows environments. No Windows binary. Shame. So trying to set up a separate standalone NEST only development environment will be a big time effort. So will likely choose another simulator for intro to PyNN. For ease of use Python pip install option. Which probably means the Neuron simulator. But it will be a start to coding in PyNN. Will try to install NEST into the PyNN dev environment at a later date. What a shame.
-
 Only supported options for MS WIN appear to be; Docker image, or Linux environment simualtor.
-
-NEST JupiterLab option?
-
-IDE. VS Code extension option. Eclipse plugin option?
-
-try conda python env? Probably not possible due to lack of MS Win binary.
-* conda install -c conda-forge nest
-* conda install -c conda-forge pynest
 
 TODO
 * <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
@@ -48,6 +38,17 @@ WSL Windows Subsystem for Linux <todo: consider moving to another page/article/r
 * Ubuntu WSL, docs [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST,
 * Ubuntu WSL/WSL2 subreddit, [WS](https://www.reddit.com/r/bashonubuntuonwindows/)
 * 
+
+### Notes
+Have downloaded NEST source code. But don't know if it will compile on MS Windows. There are no other good download options for native execution on Windows environments. No Windows binary. Shame. So trying to set up a separate standalone NEST only development environment will be a big time effort. So will likely choose another simulator for intro to PyNN. For ease of use Python pip install option. Which probably means the Neuron simulator. But it will be a start to coding in PyNN. Will try to install NEST into the PyNN dev environment at a later date. What a shame.
+
+NEST JupiterLab option?
+
+IDE. VS Code extension option. Eclipse plugin option?
+
+try conda python env? Probably not possible due to lack of MS Win binary.
+* conda install -c conda-forge nest
+* conda install -c conda-forge pynest
 
 ## References
 Terms
