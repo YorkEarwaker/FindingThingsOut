@@ -99,7 +99,8 @@ Dual boot, benchmarking, WSL & Ubuntu linux dual boot
 * Dual booting Windows and Ubuntu: is it even worth it with WSL?, [WS](https://dev.to/proman4713/dual-booting-windows-and-ubuntu-is-it-even-worth-it-with-wsl-576o), 30 Aug 2044, short answer yes! #linux, #ubuntu, #bash, #archlinux, 
 
 Dual boot, partitioning, installing, 
-* What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung, 
+* What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung,
+* <todo: Windows 10 Dynamic Partitioning, check for issues re partitioning for Ubuntu standalone, >
 
 Dual boot, - networking, security, vpn, firewall
 * Connect to a VPN, [WS](https://help.ubuntu.com/stable/ubuntu-help/net-vpn-connect.html.en), Networking, Ubuntu,
