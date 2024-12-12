@@ -85,6 +85,7 @@ WSL Windows Subsystem for Linux <todo: consider moving to another page/article/r
 
 Benchmarking, WSL & Ubuntu linux dual boot
 * Running a simulation on pure Ubuntu vs on Ubuntu in Windows (WSL), [WS](https://askubuntu.com/questions/1035568/running-a-simulation-on-pure-ubuntu-vs-on-ubuntu-in-windows-wsl), 13 May 2018, Stackexchange, askubuntu,
+* Windows 10 WSL vs. Linux Performance For Early 2018, [WS](https://www.phoronix.com/review/wsl-february-2018), 22 February 2018, Michael Larabel, Operating Systems, phoronix 
 
 Dual boot, partitioning, installing, 
 * What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung, 
