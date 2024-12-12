@@ -9,6 +9,7 @@ Only supported options for MS WIN appear to be; Docker image, or WSL Linux envir
 
 TODO
 * <todo: consider, dual boot Ubuntu linux, root partition ~30G more?, home partition ~1G more?, swap partition ~8G more?, >
+* <todo: Brave VPN, dual boot Ubuntu linux, licensing, Ubuntu compatible? >
 * <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
 * <todo: determine, Ubuntu WSL and Eclipse win install compatability, >
 * <todo: consider, WSL2 comparision to WSL, WSL2 a fully fledged light weight virtual machine? WSL layer over Win linux compatible kernel interface? >
@@ -83,10 +84,13 @@ WSL Windows Subsystem for Linux <todo: consider moving to another page/article/r
 * Do I need to reinstall Ubuntu after installing WSL 2?, [WS](https://superuser.com/questions/1582347/do-i-need-to-reinstall-ubuntu-after-installing-wsl-2), StackExchange, SuperUser,
 * Does Windows Subsystem for Linux consume resources (CPU/memory/HD) when I don't use it?, [WS](https://superuser.com/questions/1298844/does-windows-subsystem-for-linux-consume-resources-cpu-memory-hd-when-i-dont), 27 February 2018, Stackexchange, Superuser, 
 
-Benchmarking, WSL & Ubuntu linux dual boot
+Dual boot, benchmarking, WSL & Ubuntu linux dual boot
 * Running a simulation on pure Ubuntu vs on Ubuntu in Windows (WSL), [WS](https://askubuntu.com/questions/1035568/running-a-simulation-on-pure-ubuntu-vs-on-ubuntu-in-windows-wsl), 13 May 2018, Stackexchange, askubuntu,
 * Windows 10 WSL vs. Linux Performance For Early 2018, [WS](https://www.phoronix.com/review/wsl-february-2018), 22 February 2018, Michael Larabel, Operating Systems, phoronix 
 
 Dual boot, partitioning, installing, 
 * What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung, 
 
+Dual boot, - networking, security, vpn, firewall
+* Connect to a VPN, [WS](https://help.ubuntu.com/stable/ubuntu-help/net-vpn-connect.html.en), Networking, Ubuntu, 
+* 
