@@ -59,6 +59,7 @@ WSL Windows Subsystem for Linux
 Ubuntu, linux, dual boot
 * Ubuntu desktop, help [WS](https://help.ubuntu.com/), Official Ubuntu Documentation, developed and maintained by the Ubuntu Documentation Project
 * Ubuntu docs, Canonical, [WS](https://docs.ubuntu.com/), Ubuntu documentation. The docs directory for all Ubuntu operating systems and products.
+* Ubuntu wiki, [WS](https://wiki.ubuntu.com), 
 * 
 
 ## References
@@ -100,6 +101,7 @@ Dual boot, partitioning, installing,
 * What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung, 
 
 Dual boot, - networking, security, vpn, firewall
-* Connect to a VPN, [WS](https://help.ubuntu.com/stable/ubuntu-help/net-vpn-connect.html.en), Networking, Ubuntu, 
+* Connect to a VPN, [WS](https://help.ubuntu.com/stable/ubuntu-help/net-vpn-connect.html.en), Networking, Ubuntu,
+* Uncomplicated Firewall ufw, [WS](https://wiki.ubuntu.com/UncomplicatedFirewall), wiki, Ubuntu
 * UFW & VPN : How to allow reconnection, [WS](https://askubuntu.com/questions/627622/ufw-vpn-how-to-allow-reconnection), 24 May 2015, askubuntu, Stackexchange,
 * 
