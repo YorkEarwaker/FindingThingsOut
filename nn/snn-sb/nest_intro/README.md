@@ -4,8 +4,8 @@ NEST (Neural Simulaiton Tool) introduction. Spiking Neural Netowrk SNN simulatio
 
 ### Status
 Only supported options for MS WIN appear to be; Docker image, or WSL Linux environment simualtor. 
-* First option, WSL(1&2); NEST in WSL Ubuntu, or NEST in Docker in WSL Ubuntu.
-* Second option, dual boot system Ubuntu. Install NEST into Ubuntu linux partition.
+* First option, WSL(1&2); NEST in WSL Ubuntu, or NEST in Docker in WSL Ubuntu. This option is has ease of use as main advantage.
+* Second option, dual boot system Ubuntu. Install NEST into Ubuntu linux partition. This is currently looking like the better option due to performance.
 
 TODO
 * <todo: consider, dual boot Ubuntu linux, root partition ~30G more?, home partition ~1G more?, swap partition ~8G more?, >
@@ -81,6 +81,7 @@ NEST GitHub, issues windows
 WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
 * Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
 * Do I need to reinstall Ubuntu after installing WSL 2?, [WS](https://superuser.com/questions/1582347/do-i-need-to-reinstall-ubuntu-after-installing-wsl-2), StackExchange, SuperUser,
+* Does Windows Subsystem for Linux consume resources (CPU/memory/HD) when I don't use it?, [WS](https://superuser.com/questions/1298844/does-windows-subsystem-for-linux-consume-resources-cpu-memory-hd-when-i-dont), 27 February 2018, Stackexchange, Superuser, 
 
 Benchmarking, WSL & Ubuntu linux dual boot
 * Running a simulation on pure Ubuntu vs on Ubuntu in Windows (WSL), [WS](https://askubuntu.com/questions/1035568/running-a-simulation-on-pure-ubuntu-vs-on-ubuntu-in-windows-wsl), 13 May 2018, Stackexchange, askubuntu,
