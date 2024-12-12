@@ -33,7 +33,7 @@ try conda python env? Probably not possible due to lack of MS Win binary.
 * conda install -c conda-forge nest
 * conda install -c conda-forge pynest
 
-# Libraries
+### Libraries
 
 Simulator - modeling, execution
 * NEST v3.7, code [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), 
