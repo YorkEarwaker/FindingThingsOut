@@ -101,4 +101,5 @@ Dual boot, partitioning, installing,
 
 Dual boot, - networking, security, vpn, firewall
 * Connect to a VPN, [WS](https://help.ubuntu.com/stable/ubuntu-help/net-vpn-connect.html.en), Networking, Ubuntu, 
+* UFW & VPN : How to allow reconnection, [WS](https://askubuntu.com/questions/627622/ufw-vpn-how-to-allow-reconnection), askubuntu, Stackexchange,
 * 
