@@ -42,17 +42,23 @@ Simulator - modeling, execution
 * NEST compile instructions [WS](https://nest-simulator.readthedocs.io/en/stable/installation/noenv_install.html), cmake options [WS](https://nest-simulator.readthedocs.io/en/stable/installation/cmake_options.html#cmake-options), can nest be compiled for windows? requires C++ 17 compiler.
 * NEST Mailing list, [WS](https://www.nest-simulator.org/mailinglist/postorius/lists/users.nest-simulator.org/), register, log in, 
 
-Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST install?
+Nest Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST install?
 * Nest Desktop, code [GH](https://github.com/nest-desktop/nest-desktop/),
 * Nest Desktop, docs [WS](https://nest-desktop.readthedocs.io/en/latest/),
 * Nest Desktop, PyPi [WS](https://pypi.org/project/nest-desktop/),
 * Nest Desktop, Zenodo [WS](https://zenodo.org/records/6320318), 
 * Nest Desktop, Ebrains [WS](https://www.ebrains.eu/tools/nest-desktop), requires Ebrains account, free
 
-WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
+<todo: consider moving below to another page/article/readme  . Not NEST specific >
+
+WSL Windows Subsystem for Linux 
 * Ubuntu WSL, docs [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST,
 * Ubuntu WSL/WSL2 subreddit, [WS](https://www.reddit.com/r/bashonubuntuonwindows/)
 * WSL Basic Commands, docs [WS](https://learn.microsoft.com/en-us/windows/wsl/basic-commands), Microsoft,
+
+Ubuntu, linux, dual boot
+* Ubuntu desktop, help [WS](https://help.ubuntu.com/), Official Ubuntu Documentation, developed and maintained by the Ubuntu Documentation Project
+* Ubuntu docs, Canonical, [WS](https://docs.ubuntu.com/), Ubuntu documentation. The docs directory for all Ubuntu operating systems and products.
 * 
 
 ## References
@@ -79,7 +85,9 @@ NEST GitHub, issues windows
 * nest-simulator on windows. #889, [GH](https://github.com/nest/nest-simulator/issues/889), 3 February 2028
 * More to review and list, ...
 
-WSL Windows Subsystem for Linux <todo: consider moving to another page/article/readme >
+<todo: consider moving below to another page/article/readme . Not NEST specific >
+
+WSL Windows Subsystem for Linux 
 * Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
 * Do I need to reinstall Ubuntu after installing WSL 2?, [WS](https://superuser.com/questions/1582347/do-i-need-to-reinstall-ubuntu-after-installing-wsl-2), StackExchange, SuperUser,
 * Does Windows Subsystem for Linux consume resources (CPU/memory/HD) when I don't use it?, [WS](https://superuser.com/questions/1298844/does-windows-subsystem-for-linux-consume-resources-cpu-memory-hd-when-i-dont), 27 February 2018, Stackexchange, Superuser, 
