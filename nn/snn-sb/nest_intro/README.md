@@ -3,9 +3,12 @@
 NEST (Neural Simulaiton Tool) introduction. Spiking Neural Netowrk SNN simulation.
 
 ### Status
-Only supported options for MS WIN appear to be; Docker image, or Linux environment simualtor.
+Only supported options for MS WIN appear to be; Docker image, or WSL Linux environment simualtor. 
+* First option, WSL(1&2); NEST in WSL Ubuntu, or NEST in Docker in WSL Ubuntu.
+* Second option, dual boot system Ubuntu. Install NEST into Ubuntu linux partition.
 
 TODO
+* <todo: consider, dual boot Ubuntu linux, root partition ~30G more?, home partition ~1G more?, swap partition ~8G more?, >
 * <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
 * <todo: determine, Ubuntu WSL and Eclipse win install compatability, >
 * <todo: consider, WSL2 comparision to WSL, WSL2 a fully fledged light weight virtual machine? WSL layer over Win linux compatible kernel interface? >
