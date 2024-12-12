@@ -83,7 +83,8 @@ WSL Windows Subsystem for Linux <todo: consider moving to another page/article/r
 * Do I need to reinstall Ubuntu after installing WSL 2?, [WS](https://superuser.com/questions/1582347/do-i-need-to-reinstall-ubuntu-after-installing-wsl-2), StackExchange, SuperUser,
 
 Benchmarking, WSL & Ubuntu linux dual boot
-* What Is the Recommended Size for Boot Partition, [WS](https://askubuntu.com/questions/1035568/running-a-simulation-on-pure-ubuntu-vs-on-ubuntu-in-windows-wsl), Stackexchange, askubuntu,
+* Running a simulation on pure Ubuntu vs on Ubuntu in Windows (WSL), [WS](https://askubuntu.com/questions/1035568/running-a-simulation-on-pure-ubuntu-vs-on-ubuntu-in-windows-wsl), 13 May 2018, Stackexchange, askubuntu,
 
 Dual boot, partitioning, installing, 
 * What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung, 
+
