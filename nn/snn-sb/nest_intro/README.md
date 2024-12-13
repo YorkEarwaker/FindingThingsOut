@@ -8,8 +8,6 @@ Only supported options for MS WIN appear to be; Docker image, or WSL Linux envir
 * Option 2, dual boot system Ubuntu. Install NEST into Ubuntu linux partition. This is currently looking like the better option due to; performance, ability to use Eclipse IDE, . Steeper learning curve. More risk due to; disk resizing and partitioning, two OS's network security and other risks. See Dual boot [GH](https://github.com/YorkEarwaker/Operating-System/wiki/Dual-boot), 
 
 TODO
-* <todo: consider, dual boot Ubuntu linux, root partition ~30G more?, home partition ~1G more?, swap partition ~8G more?, >
-* <todo: Brave VPN, dual boot Ubuntu linux, licensing, Ubuntu compatible? >
 * <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
 * <todo: determine, Ubuntu WSL and Eclipse win install compatability, >
 * <todo: consider, WSL2 comparision to WSL, WSL2 a fully fledged light weight virtual machine? WSL layer over Win linux compatible kernel interface? >
