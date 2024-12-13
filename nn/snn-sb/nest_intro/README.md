@@ -100,6 +100,7 @@ Dual boot, benchmarking, WSL & Ubuntu linux dual boot
 
 Dual boot, partitioning, installing, 
 * What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung,
+* Can I have both Windows dynamic disk partition and some other non-Windows partition on the same disk?, [WS](), 31 August 2012, Stackexchange, Superuser 
 * <todo: Windows 10 Dynamic Partitioning, check for issues re partitioning for Ubuntu standalone, >
 
 Dual boot, - networking, security, vpn, firewall
