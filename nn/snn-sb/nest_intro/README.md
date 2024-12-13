@@ -49,19 +49,6 @@ Nest Desktop - GUI, Web user interface, over NEST simulator, requires seperate N
 * Nest Desktop, Zenodo [WS](https://zenodo.org/records/6320318), 
 * Nest Desktop, Ebrains [WS](https://www.ebrains.eu/tools/nest-desktop), requires Ebrains account, free
 
-<todo: consider moving below to another page/article/readme  . Not NEST specific >
-
-WSL Windows Subsystem for Linux 
-* Ubuntu WSL, docs [WS](https://documentation.ubuntu.com/wsl/en/latest/), recomended by NEST,
-* Ubuntu WSL/WSL2 subreddit, [WS](https://www.reddit.com/r/bashonubuntuonwindows/)
-* WSL Basic Commands, docs [WS](https://learn.microsoft.com/en-us/windows/wsl/basic-commands), Microsoft,
-
-Ubuntu, linux, dual boot
-* Ubuntu desktop, help [WS](https://help.ubuntu.com/), Official Ubuntu Documentation, developed and maintained by the Ubuntu Documentation Project
-* Ubuntu docs, Canonical, [WS](https://docs.ubuntu.com/), Ubuntu documentation. The docs directory for all Ubuntu operating systems and products.
-* Ubuntu wiki, [WS](https://wiki.ubuntu.com), 
-* 
-
 ## References
 Terms
 * Adjacency list, [WP](https://en.wikipedia.org/wiki/Adjacency_list), graph theory
@@ -85,26 +72,3 @@ NEST GitHub, issues WSL
 NEST GitHub, issues windows
 * nest-simulator on windows. #889, [GH](https://github.com/nest/nest-simulator/issues/889), 3 February 2028
 * More to review and list, ...
-
-<todo: consider moving below to another page/article/readme . Not NEST specific >
-
-WSL Windows Subsystem for Linux 
-* Can Windows 10 have WSL1 & WSL2? [WS](https://superuser.com/questions/1697133/can-windows-10-have-wsl1-wsl2), StackExchange, SuperUser,
-* Do I need to reinstall Ubuntu after installing WSL 2?, [WS](https://superuser.com/questions/1582347/do-i-need-to-reinstall-ubuntu-after-installing-wsl-2), StackExchange, SuperUser,
-* Does Windows Subsystem for Linux consume resources (CPU/memory/HD) when I don't use it?, [WS](https://superuser.com/questions/1298844/does-windows-subsystem-for-linux-consume-resources-cpu-memory-hd-when-i-dont), 27 February 2018, Stackexchange, Superuser, 
-
-Dual boot, benchmarking, WSL & Ubuntu linux dual boot
-* Running a simulation on pure Ubuntu vs on Ubuntu in Windows (WSL), [WS](https://askubuntu.com/questions/1035568/running-a-simulation-on-pure-ubuntu-vs-on-ubuntu-in-windows-wsl), 13 May 2018, Stackexchange, askubuntu,
-* Windows 10 WSL vs. Linux Performance For Early 2018, [WS](https://www.phoronix.com/review/wsl-february-2018), 22 February 2018, Michael Larabel, Operating Systems, phoronix
-* Dual booting Windows and Ubuntu: is it even worth it with WSL?, [WS](https://dev.to/proman4713/dual-booting-windows-and-ubuntu-is-it-even-worth-it-with-wsl-576o), 30 Aug 2044, short answer yes! #linux, #ubuntu, #bash, #archlinux, 
-
-Dual boot, partitioning, installing, 
-* What Is the Recommended Size for Boot Partition, [WS](https://www.baeldung.com/cs/boot-partition-ideal-size), 6 July 2024, Baeldung,
-* Can I have both Windows dynamic disk partition and some other non-Windows partition on the same disk?, [WS](), 31 August 2012, Stackexchange, Superuser 
-* <todo: Windows 10 Dynamic Partitioning, check for issues re partitioning for Ubuntu standalone, >
-
-Dual boot, - networking, security, vpn, firewall
-* Connect to a VPN, [WS](https://help.ubuntu.com/stable/ubuntu-help/net-vpn-connect.html.en), Networking, Ubuntu,
-* Uncomplicated Firewall ufw, [WS](https://wiki.ubuntu.com/UncomplicatedFirewall), wiki, Ubuntu
-* UFW & VPN : How to allow reconnection, [WS](https://askubuntu.com/questions/627622/ufw-vpn-how-to-allow-reconnection), 24 May 2015, askubuntu, Stackexchange,
-* 
