@@ -8,17 +8,17 @@ Only supported options for MS WIN appear to be; Docker image, or WSL Linux envir
 * Option 2, dual boot system Ubuntu. Install NEST into Ubuntu linux partition. This is currently looking like the better option due to; performance, ability to use Eclipse IDE, . Steeper learning curve. More risk due to; disk resizing and partitioning, two OS's network security and other risks. See Dual boot [GH](https://github.com/YorkEarwaker/Operating-System/wiki/Dual-boot), 
 
 TODO
-* <todo: consider, Ubuntu WSL, linux OS simulation env for NEST install, >
-* <todo: determine, Ubuntu WSL and Eclipse win install compatability, >
-* <todo: consider, WSL2 comparision to WSL, WSL2 a fully fledged light weight virtual machine? WSL layer over Win linux compatible kernel interface? >
-* <todo: contact NEST team, enquire re conda, enquire re compilation on MS Win, >
-* <todo: install conda, use conda as NEST python env, try conda install, may fail due to no MS Win binary? worth a try?>
 * <todo: go through the documentation and implement some of the code examples. >
 * <todo: likely PyNN over NEST. >
 * <todo: consider also NEST Cpp api. Good excuse for some fun with Cpp code! >
 
 DONE
 * <done: downloaded NEST source code, as zip file, don't know if it will compile on MS Windows, >
+* <done: there appear to be issues with Ubuntu WSL and Eclipse win install compatability, are there work arounds? >
+* <done: not contacted NEST team, not enquired re conda, not enquired re compilation on MS Win, askubuntu and other sources indicate no Win compile options, so other points moot. >
+* <done: rejected as likely too slow due to proformance issues, Ubuntu WSL, linux OS simulation env for NEST install, keep under review if dual boot not feasable >
+* <done: rejected due to performance and other issues, WSL2 comparision to WSL, WSL2 a fully fledged light weight virtual machine? WSL layer over Win linux compatible kernel interface? >
+* <done: reject conda as a solution for NEST install, install conda, use conda as NEST python env, try conda install, may fail due to no MS Win binary? worth a try?>
 
 ### Notes
 Have downloaded NEST source code. But don't know if it will compile on MS Windows. There are no other good download options for native execution on Windows environments. No Windows binary. Shame. So trying to set up a separate standalone NEST only development environment will be a big time effort. So will likely choose another simulator for intro to PyNN. For ease of use Python pip install option. Which probably means the Neuron simulator. But it will be a start to coding in PyNN. Will try to install NEST into the PyNN dev environment at a later date. What a shame.
