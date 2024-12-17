@@ -13,7 +13,7 @@ See also
 ### Status
 
 Objective
-* Artificial CNS Processors for artificial PNS sensory inputs
+* Artificial CNS processors for artificial PNS sensory inputs
 
 TODO
 * <todo: copy all these items to robotics? PNS inputs, >
