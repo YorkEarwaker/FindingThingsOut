@@ -8,6 +8,13 @@ Sandbox fun with SNN's .
 * NEST, [WS](https://nest-initiative.org/), PyNN compatible
 * Neuron, [WS](https://www.neuron.yale.edu/neuron/), PyNN compatible
 
+### Libraries
+* Elephant, [WS](https://elephant.readthedocs.io/en/latest/index.html), Python, ELEctroPHysiology ANalysis Toolkit, 
+* PyNN, pine, Python, simulation, write once exectue many times
+
+### Hardware
+* 
+
 ## References
 
 Papers
