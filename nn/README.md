@@ -6,12 +6,21 @@ Artificial neural networks and simulation of biological neural networks.
 * Many overlaps with graphics, for example general programming for GPU's.  
 * Many overlaps with ML. But focus on neural nets not numerical and data analysis.
 
+### Status
+
+Objective
+* Neuromorphic computing 
+
 TODO
 * <todo: SNN simulation, CSA, PyNN, NEST, >
-* <todo: SSN hardware, likely SpiNNaker, PyNN, NEST, other? >
+* <todo: SNN hardware, likely SpiNNaker, PyNN, NEST, other? >
+* <todo: SNN, Elephant, Python, ELEctroPHysiology ANalysis Toolkit, NEST, >
 * <todo: consider, pulse coupled neural network PCNN, type of SNN, what is the delta?, what is the overlap?, any practical difference with SNN? >
 * <todo: consider, higher order network HON, investigate further, >
 * <todo: NN deeplearning framework choice?, second order importance, >
+
+DONE
+* <done: research, interate, >
 
 See 
 * In Silico, [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
