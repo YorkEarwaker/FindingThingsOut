@@ -7,8 +7,8 @@ Hardware Description Language HDL, integrated circuit
 * neuron, software model, dryware hardware instance
 * tensor, network model tdb
 
-See 
-* Graphics [GH]()
+See also
+* Graphics [GH](https://github.com/YorkEarwaker/Graphics/tree/main), repository
 
 ### Status
 
