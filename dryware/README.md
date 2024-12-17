@@ -12,8 +12,11 @@ See also
 
 ### Status
 
+Objective
+* Artificial CNS Processors for artificial PNS sensory inputs
+
 TODO
-* <todo: move all these items to robotics? >
+* <todo: copy all these items to robotics? PNS inputs, >
 * <todo: receptor, electrochemistry, molecular, >
 * <todo: receptor, electromagnetic radiaiton, electromagnetism, electormanetic spectrum, photon, >
 * <todo: recpetor, eloctromagnetic radiation, ionizing radiation, gama γ, high energy, photon, >
