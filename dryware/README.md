@@ -22,7 +22,7 @@ TODO
 * <todo: receptor, pressure, gas, liquid, solid, plasma? >
 
 ### Libraries
-* OpenMP [WS](https://www.openmp.org/), parelell programming , C++, Fortran, 
+* OpenMP [WS](https://www.openmp.org/), paralell programming , C/C++, Fortran, 
 
 ### References
 * List of HDL simulators, [WP](https://en.wikipedia.org/wiki/List_of_HDL_simulators)
