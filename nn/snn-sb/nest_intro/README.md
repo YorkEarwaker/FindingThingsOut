@@ -37,12 +37,19 @@ try conda python env? Probably not possible due to lack of MS Win binary.
 
 ### Libraries
 
-Simulator - modeling, execution
+Neural Simulation Technology - modeling, execution
 * NEST v3.7, code [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), 
 * NEST docs [WS](https://nest-simulator.readthedocs.io/en/stable/),
 * NEST MS Win [WS](https://nest-simulator.readthedocs.io/en/stable/installation/user.html#windows-install), no good install options for windows users
 * NEST compile instructions [WS](https://nest-simulator.readthedocs.io/en/stable/installation/noenv_install.html), cmake options [WS](https://nest-simulator.readthedocs.io/en/stable/installation/cmake_options.html#cmake-options), requires C++ 17 compiler.
-* NEST Mailing list, [WS](https://www.nest-simulator.org/mailinglist/postorius/lists/users.nest-simulator.org/), register, log in, 
+* NEST Mailing list, [WS](https://www.nest-simulator.org/mailinglist/postorius/lists/users.nest-simulator.org/), register, log in,
+
+NEST Modelling Language
+* NESTML [WS](https://nestml.readthedocs.io/en/latest/), modelling language, C++, Python
+
+NEST GPU
+* NESTGPU [WS](https://nest-gpu.readthedocs.io/en/latest/), MPI, snn,
+* NESTGPU [GH](https://github.com/nest/nest-gpu), was NeuroGPU discontinued as legacy project, integration into NESTGPU, 
 
 Nest Desktop - GUI, Web user interface, over NEST simulator, requires seperate NEST install?
 * Nest Desktop, code [GH](https://github.com/nest-desktop/nest-desktop/),
@@ -50,6 +57,10 @@ Nest Desktop - GUI, Web user interface, over NEST simulator, requires seperate N
 * Nest Desktop, PyPi [WS](https://pypi.org/project/nest-desktop/),
 * Nest Desktop, Zenodo [WS](https://zenodo.org/records/6320318), 
 * Nest Desktop, Ebrains [WS](https://www.ebrains.eu/tools/nest-desktop), requires Ebrains account, free
+
+Library ecosystem
+* PyNN, Python, simulation
+* Elephant, Python, ELEctroPHysiology ANalysis Toolkit, 
 
 ## References
 Terms
