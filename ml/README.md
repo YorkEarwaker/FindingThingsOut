@@ -1,17 +1,18 @@
-Things todo
+# Machine Learning
 
-ML numerical analysis framework choice
+Numerical and data analysis, linear algebra, matrecies, vectors, statistic
 
-Linear algebra, matrecies, vectors, statistics
+## Status
 
-Java
-Python
-R
+TODO
+* <todo: ML numerical analysis framework choice, >
 
-Machine Learning ML
+DONE
+* <done: intent to commit>
 
-Numerical and data analysis
+## Libraries
 
+Libs
 * Apache Mahout, WP, WS, Java, 
 * Massive Online Analysis MOA, Java, data stream mining, 
 * Wekatia Environment for Knowledge Analysis Weka, [WP](https://en.wikipedia.org/wiki/Weka_(software)), [WS](), Java, data mining
@@ -50,6 +51,6 @@ Programming Languages
 * JS?
 * other?
 
-References
+## References
 * Comparison of numerical analysis software [WP](https://en.wikipedia.org/wiki/Comparison_of_numerical-analysis_software)
 * List of numerical analysis software, [WP](https://en.wikipedia.org/wiki/List_of_numerical-analysis_software)
