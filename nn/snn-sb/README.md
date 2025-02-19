@@ -2,17 +2,25 @@
 
 Sandbox fun with SNN's .
 
-### Simulators
+## Status
+
+TODO
+* <todo: select first simulator >
+
+DONE
+* <done: intent to commit>
+
+## Simulators
 * Arbor, [WS](https://arbor-sim.org/), PyNN compatible
 * Brain, [WS](https://briansimulator.org/), PyNN compatible
 * NEST, [WS](https://nest-initiative.org/), PyNN compatible
 * Neuron, [WS](https://www.neuron.yale.edu/neuron/), PyNN compatible
 
-### Libraries
+## Libraries
 * Elephant, [WS](https://elephant.readthedocs.io/en/latest/index.html), Python, ELEctroPHysiology ANalysis Toolkit, 
 * PyNN, pine, Python, simulation, write once exectue many times
 
-### Hardware
+## Hardware
 * 
 
 ## References
