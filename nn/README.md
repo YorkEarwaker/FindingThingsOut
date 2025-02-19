@@ -6,10 +6,15 @@ Artificial neural networks and simulation of biological neural networks.
 * Many overlaps with graphics, for example general programming for GPU's.  
 * Many overlaps with ML. But focus on neural nets not numerical and data analysis.
 
-### Status
+See 
+* In Silico, [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
+* Neuromorphic Computing [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/Neuromorphic-Computing)
 
-Objective
+## Goals & Objectives
+
 * Neuromorphic computing 
+
+## Status
 
 TODO
 * <todo: SNN simulation, CSA, PyNN, NEST, >
@@ -22,9 +27,7 @@ TODO
 DONE
 * <done: research, interate, >
 
-See 
-* In Silico, [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
-* Neuromorphic Computing [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/Neuromorphic-Computing)
+## Libraries
 
 Programming Language
 * Java, lib?, NEST? Neuroph? FANN? DL4J? <todo: where is Java in AI? >
@@ -49,3 +52,6 @@ Frameworks
 ## References
 * Comparison of deep learning software, [WP](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
 * Comparion of learning rules, No WP article currently, requirement table by NN type; CNN, RNN, PCNN, SNN (semantic), SNN (spiking), ... , other attributes tbc, 
+
+Cheese <todo: find better name, debate? opinion? discussion? >
+* Singularity, [WS](https://www.reddit.com/r/singularity/), Reddit, 
