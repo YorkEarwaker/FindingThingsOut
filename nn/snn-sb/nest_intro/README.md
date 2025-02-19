@@ -2,18 +2,16 @@
 
 NEST (Neural Simulaiton Tool) introduction. Spiking Neural Netowrk SNN simulation.
 
-### Status
-Only supported options for MS WIN appear to be ; firstly WSL Linux environment simualtor and/or Docker image, secondly dual boot Linux.
-* Option 1, WSL(1&2); NEST in WSL Ubuntu, or NEST in Docker in WSL Ubuntu, is NEST in Docker in Win possible? This option has ease of use as main advantage. Disadvantage use of Eclipse IDE is difficult or impossible? Other similar MS vendor lockin unknown constraints. Negative performance issues. 
-* Option 2, dual boot system Ubuntu. Install NEST into Ubuntu linux partition. This is currently looking like the better option due to; performance, ability to use Eclipse IDE, . Steeper learning curve. More risk due to; disk resizing and partitioning, two OS's network security and other risks. See Dual boot [GH](https://github.com/YorkEarwaker/Operating-System/wiki/Dual-boot),
+## Goals & Objective
 
-Objective
-* NEST install into dual boot Ubuntu Linux. 16 December 2024.
+* Neuromorphic Computing
 
+## Status
 TODO
-* <todo: go through the documentation and implement some of the code examples. >
-* <todo: likely PyNN over NEST. >
+* <todo: consider, go through the documentation and implement some of the code examples. >
+* <todo: consider, likely PyNN over NEST. >
 * <todo: consider also NEST Cpp api. Good excuse for some fun with Cpp code! >
+* <todo: consider, NEST install into dual boot Ubuntu Linux. decision 16 December 2024. completed tbd? >
 
 DONE
 * <done: downloaded NEST source code, as zip file, don't know if it will compile on MS Windows, >
@@ -24,7 +22,11 @@ DONE
 * <done: rejected conda as a solution for NEST install due to no MS binaries, install conda, use conda as NEST python env, try conda install, may fail due to no MS Win binary? worth a try?>
 * <done: rejectd no NEST support, can nest be compiled for windows? requires C++ 17 compiler. NEST GitHub issues re compliation for Win suggest not possible with any ease, would require large investment in time. >
 
-### Notes
+## Notes
+Only supported options for MS WIN appear to be ; firstly WSL Linux environment simualtor and/or Docker image, secondly dual boot Linux.
+* Option 1, WSL(1&2); NEST in WSL Ubuntu, or NEST in Docker in WSL Ubuntu, is NEST in Docker in Win possible? This option has ease of use as main advantage. Disadvantage use of Eclipse IDE is difficult or impossible? Other similar MS vendor lockin unknown constraints. Negative performance issues. 
+* Option 2, dual boot system Ubuntu. Install NEST into Ubuntu linux partition. This is currently looking like the better option due to; performance, ability to use Eclipse IDE, . Steeper learning curve. More risk due to; disk resizing and partitioning, two OS's network security and other risks. See Dual boot [GH](https://github.com/YorkEarwaker/Operating-System/wiki/Dual-boot),
+
 Have downloaded NEST source code. But don't know if it will compile on MS Windows. There are no other good download options for native execution on Windows environments. No Windows binary. Shame. So trying to set up a separate standalone NEST only development environment will be a big time effort. So will likely choose another simulator for intro to PyNN. For ease of use Python pip install option. Which probably means the Neuron simulator. But it will be a start to coding in PyNN. Will try to install NEST into the PyNN dev environment at a later date. What a shame.
 
 NEST JupiterLab option?
@@ -35,7 +37,7 @@ try conda python env? Probably not possible due to lack of MS Win binary.
 * conda install -c conda-forge nest
 * conda install -c conda-forge pynest
 
-### Libraries
+## Libraries
 
 Neural Simulation Technology - modeling, execution
 * NEST v3.7, code [GH](https://github.com/nest/nest-simulator/releases/tag/v3.7), 
