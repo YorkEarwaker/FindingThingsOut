@@ -6,10 +6,15 @@ Interesting cross over with general realtitivy cosmology and possible unified th
 
 Definate connection via vetor space to weather and climate models.
 
+## Status
+
 TODO
 * <todo: hello world example, map, nodes, routes, >
 * <todo: investigate further, looks promissing, >
 * <todo: investigate possiblility as executive architecture model? short term? >
+
+DONE
+* <done: intent to commit>
 
 ## References
 
