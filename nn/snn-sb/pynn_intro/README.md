@@ -2,17 +2,7 @@
 
 Gettiing to know pine
 
-### Status
-
-PyNN on Windows has not been tested.
-
-Can't use NEST on MS Win straightaway will require real effort. See NEST Intro for details.
-
-Neuron install not working first instance. 
-
-Neuron JupiterLab option? 
-
-IDE. VS Code extension option? Eclipse plugin option?
+## Status
 
 TODO
 * <todo: download simulator, Arbor, Brain 2, NEST, or Neuron, . Must a sim be installed? likely yes. >
@@ -23,6 +13,15 @@ TODO
 DONE
 * <done: install pynn in local dev environment, 06/12/2024, >
 * <done: evaluated install of NEST on MS Win no simple options, > 
+
+## Notes
+* PyNN on Windows has not been tested.
+* Can't use NEST on MS Win straightaway will require real effort. See NEST Intro for details.
+* Neuron install not working first instance. 
+* Neuron JupiterLab option? 
+* IDE. VS Code extension option? Eclipse plugin option?
+
+## Install
 
 ### PyNN install 
 
@@ -82,7 +81,9 @@ pip3 install Neuron
 ERROR: Could not find a version that satisfies the requirement Neuron (from versions: none)
 ERROR: No matching distribution found for Neuron
 
-### Simulators
+## Libraries
+
+Simulators
 * Arbor, [WS](https://arbor-sim.org/), PyNN compatible
 * Brain, [WS](https://briansimulator.org/), PyNN compatible
 * NEST, [GH](https://github.com/nest/nest-simulator), PyPi <todo: find it>, institute [WS](https://nest-initiative.org/), simulator [WS](https://nest-simulator.org/), PyNN compatible, No MS Win binary download, 
