@@ -10,7 +10,7 @@ Hardware Description Language HDL, integrated circuit
 See also
 * Graphics [GH](https://github.com/YorkEarwaker/Graphics/tree/main), repository
 
-### Status
+## Status
 
 Objective
 * Artificial CNS processors for artificial PNS sensory inputs
@@ -24,9 +24,9 @@ TODO
 * <todo: receptor, ionizing radiation, beta β−, β+, high envery, electron e−, positron e+, >
 * <todo: receptor, pressure, gas, liquid, solid, plasma? >
 
-### Libraries
+## Libraries
 * OpenMP [WS](https://www.openmp.org/), paralell programming , C/C++, Fortran, 
 
-### References
+## References
 * List of HDL simulators, [WP](https://en.wikipedia.org/wiki/List_of_HDL_simulators)
 * MPI message passing interface, 
