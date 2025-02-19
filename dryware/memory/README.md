@@ -1,9 +1,20 @@
-Things to do
-* Select an artificial neuron computational model
+# Memory
+
+Artificial memory, total recall, 
 
 See
 * In Silico [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/In-Silico)
 * Neuromorphic Computing [GH](https://github.com/YorkEarwaker/FindingThingsOut/wiki/Neuromorphic-Computing)
+
+## Status
+
+TODO
+* <todo: Select an artificial neuron computational model, >
+
+DONE
+* <done: intent to commit>
+
+## References
 
 Memory
 * Learning
