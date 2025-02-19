@@ -1,12 +1,20 @@
-Things to do
+# Neuron
 
-What next?
+Artificial neuron, 
 
-Software model of biological neuron cell('s)
-generic model
-specialised model
+## Status
 
-Dryware Hardware instance
-? tbd?
+TODO
+* <todo: What next? >
+* <todo: Software model of biological neuron cell('s) >
+* <todo: generic model >
+* <todo: specialised model >
+* <todo: Dryware Hardware instance >
+* <todo: Cluster >
 
-Cluster
+DONE
+* <done: intent to commit>
+
+## References
+
+* 
