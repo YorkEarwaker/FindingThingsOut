@@ -1,12 +1,21 @@
-Phase state
+# Nano
 
-Solid
-Graphite
-Graphene C
-Buckminsterfullerene
-Silicon Si
-Silicon dioxide SiO2
+## Status
 
-Liquid
-water? H2O?
-hydrocarbon? C?H?
+TODO
+* <todo: Phase state, Solid, >
+* <todo: Graphite, >
+* <todo: Graphene C, >
+* <todo: Buckminsterfullerene, >
+* <todo: Silicon Si, >
+* <todo: Silicon dioxide SiO2, >
+* <todo: Phase state, Liquid, >
+* <todo: water? H2O?, >
+* <todo: hydrocarbon? C?H? >
+
+DONE
+* <done: intent to commit>
+
+## References
+
+* ...
